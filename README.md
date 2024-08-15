@@ -1,9 +1,7 @@
 Hi! My name is Juan Mateo Buccolini
 ============================================================================================================================================
-Full Stack Developer/Back-end oriented
---------------------------------------
+Software Developer
 
-I've been learning code on SoyHenry's bootcamp.
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [juanmateobuccolini@gmail.com](mailto:juanmateobuccolini@gmail.com)
