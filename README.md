@@ -5,7 +5,7 @@ Software Developer
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [juanmateobuccolini@gmail.com](mailto:juanmateobuccolini@gmail.com)
-* 🧠  I'm learning Backe-end technologies
+* 🧠  I'm learning React Native (2024)
 
 ### Skills
 
